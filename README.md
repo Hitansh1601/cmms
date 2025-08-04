@@ -327,7 +327,7 @@ If you encounter any issues or have questions:
 ## 👥 Contributors
 
 - [@404Piyush](https://github.com/404Piyush) – Lead Developer & System Architect
-- [@Hitansh1601](https://github.com/Hitansh1601) – Documentation & Report Preparation
+- [@Hitansh1601](https://github.com/Hitansh1601) – Documentation & Co-Developer
 - [@vaibhavmish20](https://github.com/vaibhavmish20) – Presentation & Report Formatting  
 - [@sanapchaitanya](https://github.com/sanapchaitanya) – Research & Technical Paper Drafting  
 
